@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 + [GoogleTensorFlow开发者 - (TensorFlow Developer Certificate)](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luojie1024&include_all_commits=true&count_private-true&custom_title=Roger'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=luojie1024&include_all_commits=true&count_private-true&hide=prs,contribs&custom_title=Roger'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+
 
 
 ### Skill
@@ -30,13 +31,10 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
-
 ![CV](https://img.shields.io/badge/-CV-192133?style=flat-square&logo=mysql&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-192133?style=flat-square&logo=elasticsearch&logoColor=white)
-
 ![ChatBot](https://img.shields.io/badge/-ChatBot-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-192133?style=flat-square&logo=figma&logoColor=white)
-
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-192133?style=flat-square&logo=redis&logoColor=white)
 
 
