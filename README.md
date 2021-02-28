@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
+
 ![CV](https://img.shields.io/badge/-CV-192133?style=flat-square&logo=mysql&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-192133?style=flat-square&logo=elasticsearch&logoColor=white)
+
 ![ChatBot](https://img.shields.io/badge/-ChatBot-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-192133?style=flat-square&logo=figma&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-192133?style=flat-square&logo=redis&logoColor=white)
