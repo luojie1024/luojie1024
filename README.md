@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Skill
 
+
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
 
@@ -37,6 +38,8 @@ Here are some ideas to get you started:
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-192133?style=flat-square&logo=figma&logoColor=white)
 
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-192133?style=flat-square&logo=redis&logoColor=white)
+
+
 
 
 
