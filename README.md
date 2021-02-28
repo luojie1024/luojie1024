@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 + [IBM 数据科学家 - (Data Scientist)](https://www.youracclaim.com/users/jieluo/badges)
 + [CSDN博客专家 - (CSDN DeepLearning Blog Expert)](https://deeplearning.blog.csdn.net/)
 + [知乎专栏作家 - (Zhihu AI Model Columnist)](https://www.zhihu.com/column/ai-model)
-+ [GoogleTensorFlow开发者 - (TensorFlow Developer Certificate)](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
++ [Google TensorFlow 开发者 - (TensorFlow Developer Certificate)](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luojie1024&include_all_commits=true&count_private-true&hide=prs,contribs&custom_title=Roger'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
