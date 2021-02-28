@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Jie Luo. 🔭 I’m currently working on IBM.
+### Hi there 👋 , I'm Jie Luo ( 罗杰 ). 🔭 I’m currently working on IBM.
 
 <!--
 **luojie1024/luojie1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
