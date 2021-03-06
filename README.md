@@ -49,10 +49,14 @@ Here are some ideas to get you started:
 </a>
 
 
+<a href="https://www.youracclaim.com/earner/earned/badge/08f61ee3-a27c-4c7e-83d0-f35b14d265bd">
+<img src="https://images.youracclaim.com/size/680x680/images/a99854fb-e2db-4c9c-9cb3-509f9c831522/IBM_Cloud_Pak_for_Data_V3.0x_Essentials.png" width = "200" height = "200" alt="图片名称" align=center />
+</a>
+
+
 <a href="https://www.youracclaim.com/badges/05bd8203-cf21-4614-b1fb-213d75c29f70">
 <img src="https://images.youracclaim.com/size/680x680/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" width = "200" height = "200" alt="图片名称" align=center />
 </a>
-
 
 
 <a href="https://www.youracclaim.com/badges/c6287398-9d89-466a-9898-18d317f88773">
