@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 + [IBM 数据科学家 - (Data Scientist)](https://www.youracclaim.com/users/jieluo/badges)
++ [IBM 创新工场技术专家 - (Innovation Factory Technical Expert)](https://www.credly.com/badges/e86dd986-714f-4a68-af05-acab9f0fc98c)
 + [CSDN博客专家 - (CSDN DeepLearning Blog Expert)](https://deeplearning.blog.csdn.net/)
 + [知乎专栏作家 - (Zhihu AI Model Columnist)](https://www.zhihu.com/column/ai-model)
 + [Google TensorFlow 开发者 - (TensorFlow Developer Certificate)](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
