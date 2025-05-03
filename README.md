@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Jie Luo ( 罗杰 ). 🔭 I’m currently working on IBM.
+### Hi there 👋 , I'm Roger. 🔭 I’m currently working on IBM.
 
 <!--
 **luojie1024/luojie1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-+ [IBM 数据科学家 - (Data Scientist)](https://www.youracclaim.com/users/jieluo/badges)
-+ [IBM 创新工场技术专家 - (Innovation Factory Technical Expert)](https://www.credly.com/badges/e86dd986-714f-4a68-af05-acab9f0fc98c)
-+ [CSDN博客专家 - (CSDN DeepLearning Blog Expert)](https://deeplearning.blog.csdn.net/)
-+ [知乎专栏作家 - (Zhihu AI Model Columnist)](https://www.zhihu.com/column/ai-model)
-+ [Google TensorFlow 开发者 - (TensorFlow Developer Certificate)](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
++ [IBM Data Scientist](https://www.youracclaim.com/users/jieluo/badges)
++ [IBM Innovation Factory Technical Expert](https://www.credly.com/badges/e86dd986-714f-4a68-af05-acab9f0fc98c)
++ [Google TensorFlow Developer](https://www.credential.net/37bfe3c9-bd93-4ecc-9e91-b452542b5ff7)
++ [CSDN DeepLearning Blog Expert](https://deeplearning.blog.csdn.net/)
++ [Zhihu AI Model Columnist](https://www.zhihu.com/column/ai-model)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luojie1024&include_all_commits=true&count_private-true&hide=prs,contribs&custom_title=Roger'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=luojie1024&include_all_commits=true&count_private-true&hide=prs,contribs&custom_title=Roger%27%20GitHub%20Stats&line_height=30&show_icons=false&hide_border=false&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&rank_icon=github&hide_rank=false">
 
 
 
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
+![Ray](https://img.shields.io/badge/-Ray-192133?style=flat-square&logo=figma&logoColor=white)
+![Agent](https://img.shields.io/badge/-Agent-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ![CV](https://img.shields.io/badge/-CV-192133?style=flat-square&logo=mysql&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-192133?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -39,9 +40,6 @@ Here are some ideas to get you started:
 ![ChatBot](https://img.shields.io/badge/-ChatBot-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-192133?style=flat-square&logo=figma&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-192133?style=flat-square&logo=redis&logoColor=white)
-
-
-
 
 
 ### Badges
